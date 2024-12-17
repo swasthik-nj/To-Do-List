@@ -42,7 +42,7 @@ export default function Home() {
     // </div>
     <Box 
       sx={{
-        backgroundImage:"linear-gradient(#0d71a2,#c5f0ec)",
+        backgroundImage:"linear-gradient(#000000,#c5f0ec)",
         height: "100vh",
         width: "100%",
         display: "flex",
